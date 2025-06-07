@@ -1,0 +1,14 @@
+{
+  "name": "orangehrm-playwright-tests",
+  "version": "1.0.0",
+  "description": "This is OrangeHRM Login page Automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0"
+  }
+}
